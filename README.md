@@ -18,5 +18,5 @@ sudo python3 setup.py install
 
 You can now run the program by typing the following in your terminal:
 ```
-sudo python3 northnlbot.py
+sudo python3 hankjbot.py
 ```
