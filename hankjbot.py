@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+#
+#   hankjbot made by Pascal Roose
+#
+
+
 import os
 import logging
 import json
